@@ -1,7 +1,7 @@
-print("Hello, LDM")
+import fibo
 
-if True:
-    print("Hi")
+fibo.fib(1000)
 
-a = ['asdf','asdf', ';asd']
-a
+fibo.fib2(100)
+
+print(__name__)
