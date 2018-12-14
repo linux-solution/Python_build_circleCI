@@ -119,6 +119,3 @@ def strToFile(text, filename):
 
 if __name__ == '__main__':
     main()
-
-
-
