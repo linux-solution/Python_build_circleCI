@@ -1,5 +1,5 @@
 '''Expert system that can learn if it comes to something it does not know.
-New Python commented below:
+New Python commented below: 
    Multiple assignment works with lists (as well as tuples).
    eval(string) evaluates the string as a Python expression: eval('2+3') -> 5
    repr(object) produces a string version such that eval(repr(object)) == object
@@ -120,4 +120,5 @@ def strToFile(text, filename):
 if __name__ == '__main__':
     main()
 
-    
+
+
