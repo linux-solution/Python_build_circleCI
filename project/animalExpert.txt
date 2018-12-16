@@ -1,0 +1,16 @@
+['Does it live on land?',
+  ['Is it covered with fur?',
+    ['Does it bark?',
+      ['dog'],
+      ['ok',
+        ['cat'],
+        ['dog']
+      ]
+    ],
+    ['spider']
+  ],
+  ['Does it have webbed feet?',
+    ['duck'],
+    ['goldfish']
+  ]
+]
